@@ -1,6 +1,7 @@
 ## SQLite Class Exercise - Simon Herrera 8-16-2016
-### The final query is contained within the associated file for each exercise.
-### Excercise instructions follow...
+The final query is contained within the associated file for each exercise.
+Excercise instructions follow...
+
 
 
 # Learning SQL Through Doing
